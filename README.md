@@ -5,7 +5,7 @@ A console-based prototype for managing student records, module registration, and
 > **Course:** PROG 202 – Software Engineering
 > **Assignment:** 1
 > **Institution:** Limkokwing University of Creative Technology
-> **Student:** _Your Name_ (_Your Student ID_)
+> **Student:** _Your Name_ (_Your Student ID e.g 905006000_)
 
 ---
 
