@@ -26,7 +26,7 @@ A console-based prototype for managing student records, module registration, and
 
 ## Overview
 
-LSRMS lets an administrator register students and modules, record marks, and view results. Letter grades are calculated automatically from the Limkokwing grading scale. The system also produces a class summary with an overall average and a grade distribution.
+Limkokwing Student Results Management System(LSRMS) lets an administrator register students and modules, record marks, and view results. Letter grades are calculated automatically from the Limkokwing grading scale. The system also produces a class summary with an overall average and a grade distribution.
 
 All data is held in memory while the program runs.
 
