@@ -28,7 +28,7 @@ A console-based prototype for managing student records, module registration, and
 
 Limkokwing Student Results Management System(LSRMS) lets an administrator register students and modules, record marks, and view results. Letter grades are calculated automatically from the Limkokwing grading scale. The system also produces a class summary with an overall average and a grade distribution.
 
-All data is held in memory while the program runs.
+All data being held in memory while the program runs.
 
 ## Features
 
@@ -149,7 +149,7 @@ The program is a single Dart file organised into these parts:
 
 ## Input Validation
 
-- Required text fields cannot be empty
+- Required text fields can never be empty
 - Level must be a positive whole number
 - Marks must be numeric and between 0 and 100
 - Duplicate student IDs and module codes are rejected
